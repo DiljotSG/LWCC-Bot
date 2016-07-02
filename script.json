@@ -1,8 +1,6 @@
 {
-    "ABOUT": "Hi there!\nI am Diljot Garcha's personal resume bot. I present information for him, such as his work experience and education history!\nDo you want to know more about bots or learn about Diljot?",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HELLO": "Hi there!\nI am Diljot Garcha's personal resume bot. I present information for him, such as his work experience and education history!\nDo you want to more about Diljot? [Let's hear it!](postback:info)",
+    "INFO": "Test",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "I'm back!"
 }
