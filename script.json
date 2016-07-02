@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hi there!\nI am Diljot Garcha's personal resume bot. I present information for him, such as his work experience and education history!\nDo you want to more about Diljot? %[Let's hear it!](postback:info)",
+    "HELLO": "Hi there!\nI am Diljot Garcha's personal resume bot. I present information for him, such as his work experience and education history!\nDo you want to more about Diljot? %[Let's hear it!](postback:INFO)",
     "INFO": "Test",
     "CONNECT ME": "",
     "DISCONNECT": "I'm back!"
