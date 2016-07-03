@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Type "start" to get started!')
+            return bot.say('Type "hello" to get started!')
                 .then(() => 'speak');
         }
     },
@@ -25,9 +25,9 @@ module.exports = new Script({
 
             function updateSilent() {
                 switch (upperText) {
-                    case "CONNECT ME":
+                    case "MUTE":
                         return bot.setProp("silent", true);
-                    case "DISCONNECT":
+                    case "UNMUTE":
                         return bot.setProp("silent", false);
                     default:
                         return Promise.resolve();
@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that. Try typing "START" if you're lost.`).then(() => 'speak');
+                    return bot.say(`I can't communicate with you like a real human being. If you'd like to continue the discussion type "hello".`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
