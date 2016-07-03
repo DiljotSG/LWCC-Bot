@@ -11,7 +11,7 @@
 	"PROJECTS": "Diljot was in charge of the website design for the Industrial Arts program at his high school. Just recently Diljot created a video game in just three months! He created the game at the request of his high school's Industrial Arts program head.\nThe game is designed to run on a Raspberry Pi based arcade machine, and the final product represents what students could create in a year if the school had the right equipment. The game is going to be shown off to the school board to gain more funding for the Industrial Arts program. %[View website letter](https://drive.google.com/file/d/0B1bMx2vrdrEcY1BXSTBzdnF4a00/view?usp=sharing) %[Check out the game!](https://github.com/DiljotSG/rocky-raccoon/releases)",
 	"MORE": "What else would you like to talk about? %[Education](postback:edu) %[Work Experience](postback:work) %[Achievements](postback:edu) %[Contact Diljot](postback:contact) %[Bot Information](postback:bot)",
 	"Bot Information": "I work in the same way that EstherBot works. %[EstherBot Info](https://medium.com/the-mission/how-i-turned-my-resume-into-a-bot-and-how-you-can-too-f03847352baa)",
-	"CONTACT": "Diljot loves getting in touch with people through his bot! %[Tweet to Diljot](http://ctt.ec/Py398) %[Diljot's website](http://diljot.garcha.com/) %Email Diljot](mailto:diljot@garcha.com)"
+	"CONTACT": "Diljot loves getting in touch with people through his bot! %[Tweet to Diljot](http://ctt.ec/Py398) %[Diljot's website](http://diljot.garcha.com/) %{Email Diljot](mailto:diljot@garcha.com)",
     "MUTE": "",
     "UNMUTE": "I'm back!"
 }
