@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I can't communicate with you like a real human being. If you'd like to speak directly with Diljot, simply type "contact".`).then(() => 'speak');
+                    return bot.say(`I can't communicate with you like a real human being. If you'd like to speak directly with someone, simply type "contact".`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
