@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hi there!\nI am the Linden Woods Community Centre bot! I provide you with information about the centre!\nWhat would you like to inquire about?%[Centre Hours](postback:hrs) %[Location](postback:location) %[Calendar](postback:cal) %[Contact](postback:contact)\n%[Ask basic questions](postback:questions)",
+    "HELLO": "Hi there!\nI am the Linden Woods Community Centre bot! I provide you with information about the centre!\nWhat would you like to inquire about?%[Centre Hours](postback:hrs) %[Location](postback:location) %[Calendar](postback:cal) %[Contact](postback:contact)",
     "HEY": "Hi there!\nI am the Linden Woods Community Centre bot! I provide you with information about the centre!\nWhat would you like to inquire about?%[Centre Hours](postback:hrs) %[Location](postback:location) %[Calendar](postback:cal) %[Contact](postback:contact)",
     "HI": "Hi there!\nI am the Linden Woods Community Centre bot! I provide you with information about the centre!\nWhat would you like to inquire about?%[Centre Hours](postback:hrs) %[Location](postback:location) %[Calendar](postback:cal) %[Contact](postback:contact)",
     "START": "Hi there!\nI am the Linden Woods Community Centre bot! I provide you with information about the centre!\nWhat would you like to inquire about?%[Centre Hours](postback:hrs) %[Location](postback:location) %[Calendar](postback:cal) %[Contact](postback:contact)",
@@ -48,6 +48,7 @@
 	"HOW DOES THIS WORK": "I work in the same way that EstherBot works. %[EstherBot Info](https://medium.com/the-mission/how-i-turned-my-resume-into-a-bot-and-how-you-can-too-f03847352baa)",
 	"FAQ": "You can ask me the following questions (with variations on wordring):\nWhen is the next open gym?\nWhen are you open?\nHow many people can you hold in the MPR?\nHow much does the MPR cost to rent?\nHow much does the gym cost to rent?\nWhere are you located?\nHow does this bot work?",
 	"BOT FEEDBACK": "%[Provide Feeback](http://goo.gl/forms/e5ugpT2eUqQOvLZF2)",
+	"MORE": "You can either start the conversation again or you can ask me basic questions. %[Start](postback:start) %[Ask Basic Questions](postback:questions)",
     "MUTE": "",
     "UNMUTE": "I'm back!",
     "GOODBYE": "Goodbye!",
