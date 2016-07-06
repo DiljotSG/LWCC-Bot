@@ -7,7 +7,7 @@
 	"LOCATION": "We are located on 414 Lindenwood Dr W, Winnipeg, MB R3P 2K5!\nType \"more\" if you want to talk about something else.",
 	"CALENDAR": "Are you interested in viewing events or making rental requsts? %[View Events](postback:events) %[Rental Request](postback:rent)",
 	"VIEW EVENTS": "Open the calendar using the link below to view upcoming events! %[Open Calendar](https://teamup.com/ksda5c5ab6d3db66c7/)\nType \"more\" if you want to talk about something else.",
-	"RENTAL REQUEST": "Here is how you can make a rental request. %[Open Calendar](https://teamup.com/ksda5c5ab6d3db66c7/)\n [Step 1!](postback:one)",
+	"RENTAL REQUEST": "Here is how you can make a rental request. %[Open Calendar](https://teamup.com/ksda5c5ab6d3db66c7/)\n%[Step 1!](postback:one)",
 	"STEP 1!": "1. Choose an open time in the calendar where you would like to request a booking. %[Step 2!](postback:two)",
 	"STEP 2!": "2. Click in the desired time slot to open a dialogue box and from here you need to enter a title and time for your request. %[Step 3!](postback:three)",
 	"STEP 3!": "3. In the \"Calendar\" slot you need to choose between a Gym or MPR request. %[Step 4!](postback:four)",
